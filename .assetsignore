@@ -1,0 +1,18 @@
+# Everything in the top folder is uploaded as a public file unless it is listed here.
+.assetsignore
+.git
+.github
+.gitignore
+.dev.vars*
+.wrangler
+node_modules
+netlify
+netlify.toml
+cloudflare
+wrangler.jsonc
+package.json
+package-lock.json
+README.md
+make-icons.py
+bun.lock
+bun.lockb
